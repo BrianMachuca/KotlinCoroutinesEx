@@ -1,7 +1,7 @@
 # KotlinCoroutinesEx
 Kotlin Coroutines Example
 
-Question 1
+Question:
 
 
 Given the following snippet how would faster and slower task could be ran in parallel
