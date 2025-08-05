@@ -4,7 +4,7 @@ interface Flyable {
     fun fly()
 }
 
-// Defino la habilidad de caminar.
+// Defino la habilidad de caminar. 
 interface Walkable {
     fun walk()
 }
